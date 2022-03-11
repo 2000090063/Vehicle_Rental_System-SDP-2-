@@ -1,4 +1,10 @@
 # Vehicle_Rental_System-SDP-2-
+### Web Frameworks
+- [HTML](url) 
+- [CSS](url) 
+- [Django](url) 
+### Database
+- [My SQL](url) 
 ### License
 
 - [MIT License](url) 
