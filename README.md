@@ -7,7 +7,7 @@
 - [My SQL](url) 
 ### License
 
-- [MIT License](url) 
+- [MIT License](https://github.com/2000090063/Vehicle_Rental_System-SDP-2-/blob/main/LICENSE) 
 
 Copyright (c) 2022 Karthik Reddy Veluru
 
