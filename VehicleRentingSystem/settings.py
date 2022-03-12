@@ -81,7 +81,7 @@ WSGI_APPLICATION = 'VehicleRentingSystem.wsgi.application'
 DATABASES = {
 'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'new',
+        'NAME': 'sdp2',
         'USER': 'root',
         'PASSWORD': 'Karthik@2002',
         'HOST': 'localhost',
